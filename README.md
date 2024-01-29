@@ -2,10 +2,10 @@
 
 ## Table of contents
 
--[Introduction](#introduction)
--[Key Aspects of NLP](#key-aspects-of-nlp)
--[Tasks](#tasks)
--[License](#license)
+- [Introduction](#introduction)
+- [Key Aspects of NLP](#key-aspects-of-nlp)
+- [Tasks](#tasks)
+- [License](#license)
 
 
 - Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language.
