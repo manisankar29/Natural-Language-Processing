@@ -27,3 +27,5 @@
 10. Word Embeddings
 
 ## Tasks
+
+## TASK1: 
