@@ -25,3 +25,5 @@
 8. Text Generation
 9. Speech Recognition
 10. Word Embeddings
+
+## Tasks
