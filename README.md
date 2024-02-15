@@ -29,3 +29,7 @@
 ## Tasks
 
 ## TASK1: Tokenization 
+
+## License 
+
+[MIT License](LICENSE)
