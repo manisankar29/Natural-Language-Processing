@@ -28,7 +28,10 @@
 
 ## Tasks
 
-## TASK1: Tokenization 
+### TASK1: Tokenization
+
+- **Aim:** 
+- **Source code:** [Click here](Tokenization.ipynb)
 
 ## License 
 
