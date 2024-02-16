@@ -30,8 +30,10 @@
 
 ### TASK1: Tokenization
 
-- **Aim:** 
+- **Aim:** To perform tokenization on text with and without transformation
 - **Source code:** [Click here](Tokenization.ipynb)
+
+
 
 ## License 
 
