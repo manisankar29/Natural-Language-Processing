@@ -30,10 +30,13 @@
 
 ### TASK1: Tokenization
 
-- **Aim:** To perform tokenization on text with and without transformation
+- **Aim:** Develop a program to perform tokenization on text with and without transformation.
 - **Source code:** [Click here](Tokenization.ipynb)
 
+### TASK2: LSTM Model
 
+- **Aim:** Develop a program to analyze algorithm for word generation, single layer LSTM model.
+- **Source code:** [Click here](LSTM.ipynb)
 
 ## License 
 
